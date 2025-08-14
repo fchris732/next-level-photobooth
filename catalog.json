@@ -1,0 +1,325 @@
+{
+  "experiences": [
+    {
+      "label": "Digital Booth",
+      "src": "assets/img/experiences/digital-booth.jpg",
+      "url": "/digital-booth"
+    },
+    {
+      "label": "DSLR Booth",
+      "src": "assets/img/experiences/dslr-booth.jpg",
+      "url": "/dslr-booth"
+    },
+    {
+      "label": "Vintage Glam Booth",
+      "src": "assets/img/experiences/vintage-glam-booth.jpg",
+      "url": "/vintage-glam-booth"
+    },
+    {
+      "label": "Enclosed Photo Booth",
+      "src": "assets/img/experiences/enclosed-photo-booth.jpg",
+      "url": "/enclosed-photo-booth"
+    },
+    {
+      "label": "360 XL",
+      "src": "assets/img/experiences/360-xl.jpg",
+      "url": "/360-xl"
+    },
+    {
+      "label": "Hypeclip Glambot",
+      "src": "assets/img/experiences/hypeclip-glambot.jpg",
+      "url": "/hypeclip-glambot"
+    }
+  ],
+  "catalog": {
+    "booths": [
+      {
+        "label": "2022 10 24 21 12 56 Foto Master Mirror Me Booth 1200X2100 03696C50",
+        "src": "assets/img/booths/2022-10-24-21-12-56-foto-master-mirror-me-booth-1200x2100-03696c50.jpg"
+      },
+      {
+        "label": "Casa Cyc 01",
+        "src": "assets/img/booths/casa-cyc-01.jpg"
+      },
+      {
+        "label": "Casa Cyc 04",
+        "src": "assets/img/booths/casa-cyc-04.jpg"
+      },
+      {
+        "label": "Img 0011",
+        "src": "assets/img/booths/img-0011.jpg"
+      },
+      {
+        "label": "Img 0012",
+        "src": "assets/img/booths/img-0012.jpg"
+      },
+      {
+        "label": "P1130040",
+        "src": "assets/img/booths/p1130040.jpg"
+      },
+      {
+        "label": "Salsa 2 Launch Marketing Materials Professional Photos 124",
+        "src": "assets/img/booths/salsa-2-launch-marketing-materials-professional-photos-124.jpg"
+      },
+      {
+        "label": "Salsa 2 Launch Marketing Materials Professional Photos 204",
+        "src": "assets/img/booths/salsa-2-launch-marketing-materials-professional-photos-204.jpg"
+      }
+    ],
+    "backdrops": [
+      {
+        "label": "Img 1109",
+        "src": "assets/img/backdrops/img-1109.jpg"
+      },
+      {
+        "label": "Img 1111",
+        "src": "assets/img/backdrops/img-1111.jpg"
+      },
+      {
+        "label": "Img 1112",
+        "src": "assets/img/backdrops/img-1112.jpg"
+      },
+      {
+        "label": "Img 1113",
+        "src": "assets/img/backdrops/img-1113.jpg"
+      },
+      {
+        "label": "Img 1114",
+        "src": "assets/img/backdrops/img-1114.jpg"
+      },
+      {
+        "label": "Img 1115",
+        "src": "assets/img/backdrops/img-1115.jpg"
+      },
+      {
+        "label": "Img 1116",
+        "src": "assets/img/backdrops/img-1116.jpg"
+      },
+      {
+        "label": "Img 1117",
+        "src": "assets/img/backdrops/img-1117.jpg"
+      },
+      {
+        "label": "Img 1118",
+        "src": "assets/img/backdrops/img-1118.jpg"
+      },
+      {
+        "label": "Img 1119",
+        "src": "assets/img/backdrops/img-1119.jpg"
+      },
+      {
+        "label": "Img 1120",
+        "src": "assets/img/backdrops/img-1120.jpg"
+      },
+      {
+        "label": "Img 1121",
+        "src": "assets/img/backdrops/img-1121.jpg"
+      },
+      {
+        "label": "Img 1123",
+        "src": "assets/img/backdrops/img-1123.jpg"
+      },
+      {
+        "label": "Img 1124",
+        "src": "assets/img/backdrops/img-1124.jpg"
+      },
+      {
+        "label": "Img 1125",
+        "src": "assets/img/backdrops/img-1125.jpg"
+      },
+      {
+        "label": "Img 1126",
+        "src": "assets/img/backdrops/img-1126.jpg"
+      },
+      {
+        "label": "Img 1128",
+        "src": "assets/img/backdrops/img-1128.jpg"
+      },
+      {
+        "label": "Img 1129",
+        "src": "assets/img/backdrops/img-1129.jpg"
+      },
+      {
+        "label": "Temp Image 0E977A4A 5Cc0 491E 89E1 D1F317E22D4C",
+        "src": "assets/img/backdrops/temp-image-0e977a4a-5cc0-491e-89e1-d1f317e22d4c.jpg"
+      },
+      {
+        "label": "Temp Image 18Ccb923 F059 47Ab Bcd0 E45Ddf3E2C36",
+        "src": "assets/img/backdrops/temp-image-18ccb923-f059-47ab-bcd0-e45ddf3e2c36.jpg"
+      },
+      {
+        "label": "Temp Image 19B8519E D5E4 42F1 Badb De7C26689132",
+        "src": "assets/img/backdrops/temp-image-19b8519e-d5e4-42f1-badb-de7c26689132.jpg"
+      },
+      {
+        "label": "Temp Image 1D3621Cf 4E13 42D9 B304 7Ea259B988C8",
+        "src": "assets/img/backdrops/temp-image-1d3621cf-4e13-42d9-b304-7ea259b988c8.jpg"
+      },
+      {
+        "label": "Temp Image 1D60C4Da A94C 4Ac7 93C2 32D3Fb05020D",
+        "src": "assets/img/backdrops/temp-image-1d60c4da-a94c-4ac7-93c2-32d3fb05020d.jpg"
+      },
+      {
+        "label": "Temp Image 26373915 4D96 425D B9A3 Dfa08A893158",
+        "src": "assets/img/backdrops/temp-image-26373915-4d96-425d-b9a3-dfa08a893158.jpg"
+      },
+      {
+        "label": "Temp Image 26Af8887 C0C5 4B28 9D71 4D6F4C85B977",
+        "src": "assets/img/backdrops/temp-image-26af8887-c0c5-4b28-9d71-4d6f4c85b977.jpg"
+      },
+      {
+        "label": "Temp Image 326C6075 4Db7 4Ff2 9D95 F305B2Fe43D6",
+        "src": "assets/img/backdrops/temp-image-326c6075-4db7-4ff2-9d95-f305b2fe43d6.jpg"
+      },
+      {
+        "label": "Temp Image 330Ed172 Fddc 4062 B8Ea 22317729658E",
+        "src": "assets/img/backdrops/temp-image-330ed172-fddc-4062-b8ea-22317729658e.jpg"
+      },
+      {
+        "label": "Temp Image 3B0Ef95D 245F 4186 94D2 463520Eb00Ad",
+        "src": "assets/img/backdrops/temp-image-3b0ef95d-245f-4186-94d2-463520eb00ad.jpg"
+      },
+      {
+        "label": "Temp Image 50Fcbc79 9Ed6 4Ca0 8181 6D743Ae73Ffb",
+        "src": "assets/img/backdrops/temp-image-50fcbc79-9ed6-4ca0-8181-6d743ae73ffb.jpg"
+      },
+      {
+        "label": "Temp Image 57020C61 4E34 4B55 Ab78 5Af55Eb1Cb7A",
+        "src": "assets/img/backdrops/temp-image-57020c61-4e34-4b55-ab78-5af55eb1cb7a.jpg"
+      },
+      {
+        "label": "Temp Image 5B3A4A71 B21C 41C8 827C 668023279F1A",
+        "src": "assets/img/backdrops/temp-image-5b3a4a71-b21c-41c8-827c-668023279f1a.jpg"
+      },
+      {
+        "label": "Temp Image 5E99B5D6 E859 4B78 9548 52F07B63Bb40",
+        "src": "assets/img/backdrops/temp-image-5e99b5d6-e859-4b78-9548-52f07b63bb40.jpg"
+      },
+      {
+        "label": "Temp Image 6De3E226 A6C9 4658 8449 096973F39012",
+        "src": "assets/img/backdrops/temp-image-6de3e226-a6c9-4658-8449-096973f39012.jpg"
+      },
+      {
+        "label": "Temp Image 7F4B1029 6852 4Dcd A9Ec Cb7Ebab341Bc",
+        "src": "assets/img/backdrops/temp-image-7f4b1029-6852-4dcd-a9ec-cb7ebab341bc.jpg"
+      },
+      {
+        "label": "Temp Image 93Eeb340 9F19 402B 816B 19Fc6Ceb7672",
+        "src": "assets/img/backdrops/temp-image-93eeb340-9f19-402b-816b-19fc6ceb7672.jpg"
+      },
+      {
+        "label": "Temp Image 9B726Ced 1420 40A6 A75A C6E586E5Bfc2",
+        "src": "assets/img/backdrops/temp-image-9b726ced-1420-40a6-a75a-c6e586e5bfc2.jpg"
+      },
+      {
+        "label": "Temp Image 9E8F35F3 6271 47Bd 98Cc 3C5C1Fdbc233",
+        "src": "assets/img/backdrops/temp-image-9e8f35f3-6271-47bd-98cc-3c5c1fdbc233.jpg"
+      },
+      {
+        "label": "Temp Image Aa5E8263 8F5D 40C4 A7Ab Cc89A34480Ed",
+        "src": "assets/img/backdrops/temp-image-aa5e8263-8f5d-40c4-a7ab-cc89a34480ed.jpg"
+      },
+      {
+        "label": "Temp Image Acfe5627 65E6 4133 93Fd 13A9D47C79A0",
+        "src": "assets/img/backdrops/temp-image-acfe5627-65e6-4133-93fd-13a9d47c79a0.jpg"
+      },
+      {
+        "label": "Temp Image B08F894A 642F 43Ee B83E 9Abbbb1B56E3",
+        "src": "assets/img/backdrops/temp-image-b08f894a-642f-43ee-b83e-9abbbb1b56e3.jpg"
+      },
+      {
+        "label": "Temp Image B6266305 7C48 4F34 8E86 921Fb60F15Ce",
+        "src": "assets/img/backdrops/temp-image-b6266305-7c48-4f34-8e86-921fb60f15ce.jpg"
+      },
+      {
+        "label": "Temp Image Bc968Fb7 4B51 4B39 87Db F93A281C3E26",
+        "src": "assets/img/backdrops/temp-image-bc968fb7-4b51-4b39-87db-f93a281c3e26.jpg"
+      },
+      {
+        "label": "Temp Image C6Db6D0A 5Cf0 4Dc1 89B5 E7079B941C8B",
+        "src": "assets/img/backdrops/temp-image-c6db6d0a-5cf0-4dc1-89b5-e7079b941c8b.jpg"
+      },
+      {
+        "label": "Temp Image Fc1Bba19 0B58 4122 8432 1D5B9Ff6Dfb1",
+        "src": "assets/img/backdrops/temp-image-fc1bba19-0b58-4122-8432-1d5b9ff6dfb1.jpg"
+      }
+    ],
+    "flowers": [
+      {
+        "label": "Baby Blue",
+        "src": "assets/img/flowers/baby-blue.jpg"
+      },
+      {
+        "label": "Black",
+        "src": "assets/img/flowers/black.jpg"
+      },
+      {
+        "label": "Burgondy Pink And Green",
+        "src": "assets/img/flowers/burgondy-pink-and-green.jpg"
+      },
+      {
+        "label": "Dark Brown",
+        "src": "assets/img/flowers/dark-brown.jpg"
+      },
+      {
+        "label": "Green And White",
+        "src": "assets/img/flowers/green-and-white.jpg"
+      },
+      {
+        "label": "Light Brown",
+        "src": "assets/img/flowers/light-brown.jpg"
+      },
+      {
+        "label": "Lilac",
+        "src": "assets/img/flowers/lilac.jpg"
+      },
+      {
+        "label": "Pink And White",
+        "src": "assets/img/flowers/pink-and-white.jpg"
+      },
+      {
+        "label": "Pink White And Blue",
+        "src": "assets/img/flowers/pink-white-and-blue.jpg"
+      },
+      {
+        "label": "Pink White And Green",
+        "src": "assets/img/flowers/pink-white-and-green.jpg"
+      },
+      {
+        "label": "Purple",
+        "src": "assets/img/flowers/purple.jpg"
+      },
+      {
+        "label": "Red Pink And Green",
+        "src": "assets/img/flowers/red-pink-and-green.jpg"
+      },
+      {
+        "label": "Red",
+        "src": "assets/img/flowers/red.jpg"
+      },
+      {
+        "label": "White",
+        "src": "assets/img/flowers/white.jpg"
+      },
+      {
+        "label": "Yellow",
+        "src": "assets/img/flowers/yellow.jpg"
+      }
+    ],
+    "lights": [],
+    "props": [],
+    "extras": []
+  },
+  "gallery": [
+    "assets/img/gallery/g01.jpg",
+    "assets/img/gallery/g02.jpg",
+    "assets/img/gallery/g03.jpg",
+    "assets/img/gallery/g04.jpg",
+    "assets/img/gallery/g05.jpg",
+    "assets/img/gallery/g06.jpg",
+    "assets/img/gallery/g07.jpg",
+    "assets/img/gallery/g08.jpg",
+    "assets/img/gallery/g09.jpg",
+    "assets/img/gallery/g10.jpg"
+  ]
+}
