@@ -1,0 +1,178 @@
+/* Global styles for Next Level Photobooth Rentals static site */
+body {
+  margin: 0;
+  font-family: "Lato", Arial, sans-serif;
+  background-color: #F8F8FB;
+  color: #1D1E22;
+}
+header {
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #E9E9EF;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+nav a {
+  margin: 0 0.75rem;
+  text-decoration: none;
+  color: #1D1E22;
+  font-weight: 600;
+}
+nav a:hover {
+  color: #802880;
+}
+.hero {
+  padding: 6rem 2rem;
+  color: #FFFFFF;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.hero::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 0;
+}
+.hero > * {
+  position: relative;
+  z-index: 1;
+}
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.cta-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  background-color: #802880;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 1rem;
+}
+.cta-button.outline {
+  background-color: transparent;
+  border: 2px solid #802880;
+  color: #802880;
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+.card {
+  background-color: #FFFFFF;
+  border: 1px solid #E9E9EF;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  display: flex;
+  flex-direction: column;
+}
+.card img {
+  width: 100%;
+  border-radius: 6px;
+  object-fit: cover;
+  height: 180px;
+  margin-bottom: 0.5rem;
+}
+.faq {
+  margin-top: 2rem;
+}
+.faq-item {
+  margin-bottom: 1rem;
+}
+.faq-question {
+  font-weight: 600;
+  cursor: pointer;
+  margin: 0;
+}
+.faq-answer {
+  display: none;
+  padding-left: 1rem;
+}
+.footer {
+  background-color: #F1F1F7;
+  padding: 2rem;
+  margin-top: 4rem;
+  text-align: center;
+}
+.footer nav a {
+  margin: 0 0.5rem;
+  color: #1D1E22;
+}
+/* Contact form styles */
+.contact-section {
+  background-color: #F8F8FB;
+  padding: 60px 20px;
+  text-align: center;
+}
+.contact-section h1 {
+  margin-bottom: 10px;
+  font-size: 2.5rem;
+  color: #802880;
+}
+.contact-section p {
+  margin-bottom: 30px;
+  color: #1D1E22;
+}
+form.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.form-group {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+.form-group label {
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+.form-group input,
+.form-group select,
+.form-group textarea {
+  padding: 12px;
+  border: 1px solid #E9E9EF;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+.form-group textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: #802880;
+  box-shadow: 0 0 0 2px rgba(128, 40, 128, 0.1);
+}
+.form-submit {
+  text-align: right;
+}
+.form-submit button {
+  background-color: #802880;
+  color: #FFFFFF;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.form-submit button:hover {
+  opacity: 0.9;
+}
