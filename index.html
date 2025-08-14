@@ -1,80 +1,115 @@
-<!doctype html><html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Home — Next Level Photobooth Rentals</title>
-<link rel="stylesheet" href="assets/css/style.css"><link rel="icon" href="assets/img/logo.png">
-</head><body>
-<header class="site-header">
-  <div class="container header-inner">
-    <a class="logo" href="/"><img class="logo-img" src="assets/img/logo.png" alt=""><span class="logo-text">Next Level Photobooth Rentals</span></a>
-    <nav class="nav" aria-label="Primary">
-      <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Open menu">☰</button>
-      <ul id="nav-menu" class="nav-menu">
-        <li><a href="/weddings">Weddings</a></li>
-        <li><a href="/corporate">Corporate</a></li>
-        <li><a href="/gallery.html">Gallery</a></li>
-        <li><a href="/catalog">Catalog</a></li>
-        <li><a href="/faq">FAQ</a></li>
-        <li><a class="btn btn-small" href="/pricing">Pricing</a></li>
-        <li><a class="btn btn-small" href="/contact.html">Check availability</a></li>
-      </ul>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Next Level Photobooth Rentals</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="logo"><strong>Next Level Photobooth Rentals</strong></div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="weddings.html">Weddings</a>
+      <a href="corporate.html">Corporate</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="catalog.html">Catalog</a>
+      <a href="faq.html">FAQ</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="contact.html">Contact</a>
     </nav>
-  </div>
-</header>
-<main id="main">
-  <section class="hero">
-    <img class="hero-img" src="assets/img/hero-home-v2.jpg" alt="Flower wall wedding photo">
-    <div class="hero-overlay"></div>
-    <div class="hero-content container">
-      <h1>Let us take your event to the Next Level!</h1>
-      <p>Luxury photo booths in NJ • NY • PA — studio‑quality images, instant sharing, pro attendants.</p>
-      <p><a class="btn" href="/contact.html">Check availability</a> <a class="btn ghost" href="/catalog">See catalog</a></p>
-    </div>
-  </section>
-  <section class="container">
-    <h2>Choose your experience</h2>
-    <div class="grid-experiences">
-      <article class="card"><img src="assets/img/experiences/digital-booth.jpg" alt=""><h3><a class="name-link" href="/digital-booth">Digital Booth</a></h3></article>
-      <article class="card"><img src="assets/img/experiences/dslr-booth.jpg" alt=""><h3><a class="name-link" href="/dslr-booth">DSLR Booth</a></h3></article>
-      <article class="card"><img src="assets/img/experiences/vintage-glam-booth.jpg" alt=""><h3><a class="name-link" href="/vintage-glam-booth">Vintage Glam Booth</a></h3></article>
-      <article class="card"><img src="assets/img/experiences/enclosed-photo-booth.jpg" alt=""><h3><a class="name-link" href="/enclosed-photo-booth">Enclosed Photo Booth</a></h3></article>
-      <article class="card"><img src="assets/img/experiences/360-xl.jpg" alt=""><h3><a class="name-link" href="/360-xl">360 XL</a></h3></article>
-      <article class="card"><img src="assets/img/experiences/hypeclip-glambot.jpg" alt=""><h3><a class="name-link" href="/hypeclip-glambot">Hypeclip Glambot</a></h3></article>
-    </div>
-  </section>
-</main>
+  </header>
 
-<section class="cta-banner">
+  <!-- Hero Section -->
+  <section class="hero" style="background-image: url('https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=1350&q=80');">
+    <h1>Let us take your event to the next level!</h1>
+    <p>Modern &amp; vintage photo booths for weddings, corporate and private events.</p>
+    <div>
+      <a class="cta-button" href="contact.html">Check availability</a>
+      <a class="cta-button outline" href="catalog.html">See catalog</a>
+    </div>
+  </section>
+
+  <!-- Experiences Section -->
   <div class="container">
-    <h2>Weddings • Corporate • Schools • Parties</h2>
-    <p>Serving New Jersey, New York City, and Eastern Pennsylvania.</p>
-    <a class="btn" href="/contact.html">Get a custom quote</a>
+    <h2>Choose Your Experience</h2>
+    <div class="cards">
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=400&q=80" alt="Digital Booth">
+        <h3>Digital Booth</h3>
+        <p>A sleek, fully digital booth with instant social sharing.</p>
+        <a class="cta-button outline" href="catalog.html#digital">Learn more</a>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1521335629791-ce4aec67dd49?auto=format&fit=crop&w=400&q=80" alt="DSLR Booth">
+        <h3>DSLR Booth</h3>
+        <p>Professional DSLR quality prints and elegant design.</p>
+        <a class="cta-button outline" href="catalog.html#dslr">Learn more</a>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1544717303-2782549e8801?auto=format&fit=crop&w=400&q=80" alt="Vintage Glam Booth">
+        <h3>Vintage Glam Booth</h3>
+        <p>Timeless black‑and‑white portraits with a glamorous flair.</p>
+        <a class="cta-button outline" href="catalog.html#vintage">Learn more</a>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1585128795351-9671cefcf012?auto=format&fit=crop&w=400&q=80" alt="Enclosed Photo Booth">
+        <h3>Enclosed Booth</h3>
+        <p>Classic enclosed booth for extra privacy and fun.</p>
+        <a class="cta-button outline" href="catalog.html#enclosed">Learn more</a>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=400&q=80" alt="360 XL">
+        <h3>360 XL Booth</h3>
+        <p>Immersive 360‑degree videos that wow your guests.</p>
+        <a class="cta-button outline" href="catalog.html#360">Learn more</a>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1602362773626-4f0b91f49e1f?auto=format&fit=crop&w=400&q=80" alt="Hypeclip Glambot">
+        <h3>Hypeclip Glambot</h3>
+        <p>High‑speed camera capture and slow motion glam.</p>
+        <a class="cta-button outline" href="catalog.html#hypeclip">Learn more</a>
+      </div>
+    </div>
   </div>
-</section>
-<footer class="site-footer">
-  <div class="container footer-grid">
-    <div>
-      <div class="logo"><img class="logo-img" src="assets/img/logo.png" alt=""><span class="logo-text">Next Level Photobooth Rentals</span></div>
-      <p>Premium photo booth experiences for weddings, corporate events, and celebrations in NJ, NY &amp; PA.</p>
-      <p><strong>Call/Text:</strong> <a href="tel:+19084018081">908‑401‑8081</a><br>
-         <strong>Email:</strong> <a href="mailto:info@nextlevelpbr.com">info@nextlevelpbr.com</a></p>
-    </div>
-    <div>
-      <h4>Company</h4>
-      <ul>
-        <li><a href="/gallery.html">Gallery</a></li>
-        <li><a href="/catalog">Catalog</a></li>
-        <li><a href="/faq">FAQ</a></li>
-        <li><a href="/contact.html">Contact</a></li>
-      </ul>
-    </div>
-    <div>
-      <h4>Follow</h4>
-      <ul>
-        <li><a href="https://www.facebook.com/yourpage" target="_blank" rel="noopener">Facebook</a></li>
-        <li><a href="https://www.instagram.com/yourhandle" target="_blank" rel="noopener">Instagram</a></li>
-        <li><a href="https://www.tiktok.com/@yourhandle" target="_blank" rel="noopener">TikTok</a></li>
-      </ul>
-    </div>
-  </div>
-  <div class="container footer-bottom"><small>© <span id="year"></span> Next Level Photobooth Rentals. All rights reserved.</small></div>
-</footer><script src="assets/js/main.js"></script></body></html>
+
+  <!-- CTA Banner -->
+  <section class="hero" style="background-image: url('https://images.unsplash.com/photo-1517816428104-7202b5c4a6e9?auto=format&fit=crop&w=1350&q=80');">
+    <h2>Ready to elevate your event?</h2>
+    <a class="cta-button" href="contact.html">Get a quote</a>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2025 Next Level Photobooth Rentals</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="weddings.html">Weddings</a>
+      <a href="corporate.html">Corporate</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="catalog.html">Catalog</a>
+      <a href="faq.html">FAQ</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </footer>
+
+  <script>
+    // Basic FAQ toggle script (used in FAQ page)
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.faq-question').forEach(function (q) {
+        q.addEventListener('click', function () {
+          const answer = q.nextElementSibling;
+          if (answer.style.display === 'block') {
+            answer.style.display = 'none';
+          } else {
+            answer.style.display = 'block';
+          }
+        });
+      });
+    });
+  </script>
+</body>
+</html>

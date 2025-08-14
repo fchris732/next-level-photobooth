@@ -1,67 +1,80 @@
-<!doctype html><html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Catalog — Next Level Photobooth Rentals</title>
-<link rel="stylesheet" href="assets/css/style.css"><link rel="icon" href="assets/img/logo.png">
-</head><body>
-<header class="site-header">
-  <div class="container header-inner">
-    <a class="logo" href="/"><img class="logo-img" src="assets/img/logo.png" alt=""><span class="logo-text">Next Level Photobooth Rentals</span></a>
-    <nav class="nav" aria-label="Primary">
-      <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Open menu">☰</button>
-      <ul id="nav-menu" class="nav-menu">
-        <li><a href="/weddings">Weddings</a></li>
-        <li><a href="/corporate">Corporate</a></li>
-        <li><a href="/gallery.html">Gallery</a></li>
-        <li><a href="/catalog">Catalog</a></li>
-        <li><a href="/faq">FAQ</a></li>
-        <li><a class="btn btn-small" href="/pricing">Pricing</a></li>
-        <li><a class="btn btn-small" href="/contact.html">Check availability</a></li>
-      </ul>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catalog | Next Level Photobooth Rentals</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="logo"><strong>Next Level Photobooth Rentals</strong></div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="weddings.html">Weddings</a>
+      <a href="corporate.html">Corporate</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="catalog.html">Catalog</a>
+      <a href="faq.html">FAQ</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="contact.html">Contact</a>
     </nav>
-  </div>
-</header>
-<main id="main" class="container catalog">
-  <h1>Catalog</h1>
-  <details open><summary>Booths</summary><div id="catalog-booths" class="catalog-grid"></div></details>
-  <details><summary>Premium Backdrops</summary><div id="catalog-backdrops" class="catalog-grid"></div></details>
-  <details><summary>Flower Walls</summary><div id="catalog-flowers" class="catalog-grid"></div></details>
-  <details><summary>LED Lights</summary><div id="catalog-lights" class="catalog-grid"></div></details>
-  <details><summary>Props</summary><div id="catalog-props" class="catalog-grid"></div></details>
-  <details><summary>Extras</summary><div id="catalog-extras" class="catalog-grid"></div></details>
-</main>
-
-<section class="cta-banner">
+  </header>
   <div class="container">
-    <h2>Weddings • Corporate • Schools • Parties</h2>
-    <p>Serving New Jersey, New York City, and Eastern Pennsylvania.</p>
-    <a class="btn" href="/contact.html">Get a custom quote</a>
+    <h1>Our Booth Catalog</h1>
+    <p>Browse the experiences we offer. Contact us for custom packages and add‑ons.</p>
+    <div class="cards">
+      <div class="card" id="digital">
+        <img src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=400&q=80" alt="Digital Booth">
+        <h3>Digital Booth</h3>
+        <p>Shareable boomerangs, GIFs and photos with branded overlays.</p>
+        <p><strong>Starting at $650</strong></p>
+      </div>
+      <div class="card" id="dslr">
+        <img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=400&q=80" alt="DSLR Booth">
+        <h3>DSLR Booth</h3>
+        <p>Studio‑quality prints and a luxury presentation.</p>
+        <p><strong>Starting at $950</strong></p>
+      </div>
+      <div class="card" id="vintage">
+        <img src="https://images.unsplash.com/photo-1529218164294-271d4452949a?auto=format&fit=crop&w=400&q=80" alt="Vintage Glam Booth">
+        <h3>Vintage Glam Booth</h3>
+        <p>Glamorous black‑and‑white portraits with beauty lighting.</p>
+        <p><strong>Starting at $1,100</strong></p>
+      </div>
+      <div class="card" id="enclosed">
+        <img src="https://images.unsplash.com/photo-1518894346465-52b1f2a5df4b?auto=format&fit=crop&w=400&q=80" alt="Enclosed Booth">
+        <h3>Enclosed Photo Booth</h3>
+        <p>Traditional enclosed space for prints and privacy.</p>
+        <p><strong>Starting at $1,200</strong></p>
+      </div>
+      <div class="card" id="360">
+        <img src="https://images.unsplash.com/photo-1494712343231-327cefd0b77a?auto=format&fit=crop&w=400&q=80" alt="360 XL">
+        <h3>360 XL</h3>
+        <p>Immersive, slow‑motion 360° videos.</p>
+        <p><strong>Starting at $1,600</strong></p>
+      </div>
+      <div class="card" id="hypeclip">
+        <img src="https://images.unsplash.com/photo-1541989727-04c21f53905c?auto=format&fit=crop&w=400&q=80" alt="Hypeclip Glambot">
+        <h3>Hypeclip Glambot</h3>
+        <p>High‑speed camera for glamorous slow‑motion clips.</p>
+        <p><strong>Custom quote</strong></p>
+      </div>
+    </div>
   </div>
-</section>
-<footer class="site-footer">
-  <div class="container footer-grid">
-    <div>
-      <div class="logo"><img class="logo-img" src="assets/img/logo.png" alt=""><span class="logo-text">Next Level Photobooth Rentals</span></div>
-      <p>Premium photo booth experiences for weddings, corporate events, and celebrations in NJ, NY &amp; PA.</p>
-      <p><strong>Call/Text:</strong> <a href="tel:+19084018081">908‑401‑8081</a><br>
-         <strong>Email:</strong> <a href="mailto:info@nextlevelpbr.com">info@nextlevelpbr.com</a></p>
-    </div>
-    <div>
-      <h4>Company</h4>
-      <ul>
-        <li><a href="/gallery.html">Gallery</a></li>
-        <li><a href="/catalog">Catalog</a></li>
-        <li><a href="/faq">FAQ</a></li>
-        <li><a href="/contact.html">Contact</a></li>
-      </ul>
-    </div>
-    <div>
-      <h4>Follow</h4>
-      <ul>
-        <li><a href="https://www.facebook.com/yourpage" target="_blank" rel="noopener">Facebook</a></li>
-        <li><a href="https://www.instagram.com/yourhandle" target="_blank" rel="noopener">Instagram</a></li>
-        <li><a href="https://www.tiktok.com/@yourhandle" target="_blank" rel="noopener">TikTok</a></li>
-      </ul>
-    </div>
-  </div>
-  <div class="container footer-bottom"><small>© <span id="year"></span> Next Level Photobooth Rentals. All rights reserved.</small></div>
-</footer><script src="assets/js/main.js"></script></body></html>
+  <footer class="footer">
+    <p>&copy; 2025 Next Level Photobooth Rentals</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="weddings.html">Weddings</a>
+      <a href="corporate.html">Corporate</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="catalog.html">Catalog</a>
+      <a href="faq.html">FAQ</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </footer>
+</body>
+</html>
